@@ -1,0 +1,22 @@
+{
+  "name": "js-node",
+  "version": "1.0.0",
+  "description": "node js",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshareddy782/js-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshareddy782/js-node/issues"
+  },
+  "homepage": "https://github.com/harshareddy782/js-node#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
